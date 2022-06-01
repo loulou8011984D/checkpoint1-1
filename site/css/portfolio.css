@@ -9,6 +9,18 @@
 .purple-text {
   color: #750ff7;
 }
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  align-items:center;
+}
+.container{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .description {
   color: #ffffff;
